@@ -1,4 +1,4 @@
-package J10_VaraivleTypes_Static;
+package J00_Interview_Questions;
 
 
 /*
@@ -22,7 +22,7 @@ package J10_VaraivleTypes_Static;
 
  */
 
-public class StaticBlock01 {
+public class J21_StaticBlock01 {
 
 /*
    1-  Java class loader: make the class ready to use
