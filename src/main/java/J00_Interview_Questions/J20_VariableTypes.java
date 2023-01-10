@@ -3,9 +3,14 @@ package J00_Interview_Questions;
 public class J20_VariableTypes {
 
 /*
-    Note:   If you do not assign any value for "static" and "non-static" variables. Java assign default variable to them
+Note:   Note:   If you do not assign any value for "static" and "non-static" variables. Java assign default variable to them
     but java does not assign default value for "local variables;
     Default value is 0 for numeric data types null is for String  and false is for boolean
+    A variable which is created out of method but inside the class is called  "intance variable" it belongs the object (non-Static)
+    A variable which is created out of method but inside the class  is called "Class variable"  it belogs the class (Static)
+
+    there is no need to create a object to access static variable/class variable
+    we have to create to access non-static variable/intance variable
 
  */
 

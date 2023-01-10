@@ -1,6 +1,6 @@
 package J00_Interview_Questions;
 
-public class I04_Switch_Kullanimi_Interview {
+public class I04_UsingOfSwitch {
 
     /*
 

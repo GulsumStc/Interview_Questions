@@ -1,6 +1,6 @@
 package J00_Interview_Questions;
 
-public class I02_Tekrarli_Tekrarsiz_krakterler_Interview {
+public class I02_Tekrarli_Tekrarsiz_krakterler {
     public static void main(String[] args) {
         //Example 1: Bir String'deki bir character'in tekrarli veya tekrarszi olup olmadigini gosteren kodu yaziniz
         //               "abbccdd" ==> b-> tekrarsiz a-> tekrarsiz  seklinde

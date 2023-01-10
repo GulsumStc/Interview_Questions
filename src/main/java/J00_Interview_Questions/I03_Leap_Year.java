@@ -1,6 +1,6 @@
 package J00_Interview_Questions;
 
-public class I03_Leap_Year_Interview {
+public class I03_Leap_Year {
 
     public static void main(String[] args) {
 
