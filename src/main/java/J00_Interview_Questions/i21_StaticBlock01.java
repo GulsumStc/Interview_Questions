@@ -22,7 +22,7 @@ package J00_Interview_Questions;
 
  */
 
-public class J21_StaticBlock01 {
+public class i21_StaticBlock01 {
 
 /*
    1-  Java class loader: make the class ready to use

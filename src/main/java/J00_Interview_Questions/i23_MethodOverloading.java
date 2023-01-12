@@ -1,6 +1,6 @@
 package J00_Interview_Questions;
 
-public class J23_MethodOverloading {
+public class i23_MethodOverloading {
 
 /*
   1)Method Overloading yaparken method ismi degistirilmez

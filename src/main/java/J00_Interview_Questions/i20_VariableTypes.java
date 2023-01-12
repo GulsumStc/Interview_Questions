@@ -1,6 +1,6 @@
 package J00_Interview_Questions;
 
-public class J20_VariableTypes {
+public class i20_VariableTypes {
 
 /*
 Note:   Note:   If you do not assign any value for "static" and "non-static" variables. Java assign default variable to them

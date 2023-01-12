@@ -2,7 +2,7 @@ package J00_Interview_Questions;
 
 import java.util.Scanner;
 
-public class J19_ForLoop_Triangle {
+public class i19_ForLoop_Triangle {
     // soru 6 Asagidaki sekil cizen kodu yaziniz
         /*
 
