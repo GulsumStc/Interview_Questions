@@ -10,7 +10,7 @@ public class i26_Varargs {
 		 Varargs is actually an array because of that in varargs we use Array methods
 		 Varargs is like a bottomless pit, you can put infinitely many number of elements
 		 into it, there is no any limit.
-		 If you want do not put any element into a varargs, it is fine because empty
+		 If you want to not put any element into a varargs, it is fine because empty
 		 array is fine
 
 		 Rule 1: If you use varargs in a method it must be the last parameter.
