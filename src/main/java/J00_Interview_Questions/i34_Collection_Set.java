@@ -84,6 +84,7 @@ Madem tree set yavas buna cozum nedir?
         System.out.println(ths);//natural order[5, 9, 23, 65, 91]
 
 
+
     }
 
 
