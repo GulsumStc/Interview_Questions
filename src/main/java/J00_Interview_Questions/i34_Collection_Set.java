@@ -46,7 +46,7 @@ Madem tree set yavas buna cozum nedir?
 //      ve sonra HashSet'i TreeSet'e ceviririz
 
 
-    //Generic Method: Normal method'lar parametrelerde belirtilen data type'lari ile calisirlar.
+//Generic Method: Normal method'lar parametrelerde belirtilen data type'lari ile calisirlar.
         //                Generic Method'lar ise verilen her turlu data type ile calisma becerisine sahiptirler.
 
 

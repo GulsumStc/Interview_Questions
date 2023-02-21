@@ -10,14 +10,15 @@ public class i35_difference_HashMap_HashTable {
     Differences between HashMap and HashTable
 
 1-  a- HashMap is NOT synchronized  and multi-thread(thread-safe)
-    b- HashTable is Synchronized and  Thread Safe
+    b- HashTable is thread-safe and synchronized and it takes time that is why Hash table is slower
+       multithread is saving times it allows us to make  more than one work at same time
 2-  a- HashMap is fast
     b- HashTable is slow according to HashMap
 3-  a- For values you can use "MULTIPLE null" values
     b- For HashTables, you cannot use "null" for keys and values.
 
-
-
+Hashtable can be used in multi-thread operations
+Note:    If a structure is possible to be used in multi-thread operations, This structure is called "threadsafe"
 
      */
 
@@ -40,8 +41,7 @@ public class i35_difference_HashMap_HashTable {
 	 4)HashTable is not ordered
 	 5)For HashTables, you cannot use "null" for keys and values.
 	 6)HashTable is slow according to HashMap
-	  7)HashMap does not put elements in any order.
-	   Elements are in random order
+
 	 */
 
 
